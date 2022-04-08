@@ -1,0 +1,4 @@
+venv/*
+FlaskApp/models/*
+FlaskApp/csv/*
+
